@@ -1,0 +1,30 @@
+<!-- Project Name: HW12  -->
+<!-- Author: Joshua Taylor-->
+<!-- Date Last Modified: 4.1.19-->
+
+1.
+<style type="text/css">
+  body{
+  text-decoration:none;
+  background-color:white;
+  color:black;
+  font:Arial;
+  }
+
+  .new{
+    font-weight:bold;
+    font-style:italic;
+  }
+</style>
+
+2.
+body{
+  background-color:#FFF8DC;
+  color:#000099;
+  font:Arial;
+}
+
+.new{
+  font-weight:bold;
+  font-style:italic;
+}
