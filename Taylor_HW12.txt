@@ -11,6 +11,9 @@
   font:Arial;
   }
 
+colors should be in HEX
+should be a, not body
+missing font list
   .new{
     font-weight:bold;
     font-style:italic;
@@ -28,3 +31,5 @@ body{
   font-weight:bold;
   font-style:italic;
 }
+
+should be id, not class
